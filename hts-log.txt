@@ -1,0 +1,39 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 25 Nov 2020 12:24:49 at http://baha.malyarchuk.space/ind-slider.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://baha.malyarchuk.space/ind-slider.html -O1 "C:\My Web Sites\portfolio" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:27:09	Warning: 	Retry after error -4 (No data (connection closed)) at link baha.malyarchuk.space/img/portfolio/img-1.jpg (from baha.malyarchuk.space/ind-slider.html)
+12:27:11	Warning: 	Retry after error -4 (No data (connection closed)) at link baha.malyarchuk.space/img/portfolio/img-2.jpg (from baha.malyarchuk.space/ind-slider.html)
+12:27:19	Warning: 	Retry after error -4 (No data (connection closed)) at link baha.malyarchuk.space/img/portfolio/img-3.jpg (from baha.malyarchuk.space/ind-slider.html)
+12:27:19	Warning: 	Retry after error -4 (No data (connection closed)) at link baha.malyarchuk.space/img/portfolio/img-7.jpg (from baha.malyarchuk.space/ind-slider.html)
+12:27:21	Warning: 	Retry after error -4 (No data (connection closed)) at link baha.malyarchuk.space/img/portfolio/img-9.jpg (from baha.malyarchuk.space/ind-slider.html)
+12:27:32	Warning: 	Retry after error -4 (No data (connection closed)) at link baha.malyarchuk.space/img/blog/img-2.jpg (from baha.malyarchuk.space/ind-slider.html)
+12:27:40	Warning: 	Retry after error -4 (No data (connection closed)) at link baha.malyarchuk.space/img/blog/img-5.jpg (from baha.malyarchuk.space/ind-slider.html)
+12:27:41	Warning: 	Retry after error -4 (No data (connection closed)) at link baha.malyarchuk.space/blog-list.html (from baha.malyarchuk.space/ind-slider.html)
+12:27:43	Warning: 	Retry after error -4 (No data (connection closed)) at link baha.malyarchuk.space/js/isotope.pkgd.min.js (from baha.malyarchuk.space/ind-slider.html)
+12:27:46	Warning: 	Retry after error -4 (No data (connection closed)) at link baha.malyarchuk.space/fonts/fa-brands-400.svg (from baha.malyarchuk.space/css/plugins/font-awesome.css)
+12:27:47	Warning: 	Retry after error -4 (No data (connection closed)) at link baha.malyarchuk.space/fonts/fa-regular-400.eot? (from baha.malyarchuk.space/css/plugins/font-awesome.css)
+12:27:56	Warning: 	Retry after error -4 (No data (connection closed)) at link baha.malyarchuk.space/fonts/fa-regular-400.ttf (from baha.malyarchuk.space/css/plugins/font-awesome.css)
+12:27:57	Warning: 	Retry after error -4 (No data (connection closed)) at link baha.malyarchuk.space/fonts/fa-solid-900.eot (from baha.malyarchuk.space/css/plugins/font-awesome.css)
+12:28:02	Warning: 	Retry after error -4 (No data (connection closed)) at link baha.malyarchuk.space/fonts/fa-solid-900.svg (from baha.malyarchuk.space/css/plugins/font-awesome.css)
+12:28:21	Error: 	"Failed Dependency" (424) at link baha.malyarchuk.space/css/plugins/owl.video.play.png (from baha.malyarchuk.space/css/plugins/owl.carousel.min.css)
+12:28:39	Warning: 	Retry after error -4 (No data (connection closed)) at link baha.malyarchuk.space/img/portfolio/img-3.jpg (from baha.malyarchuk.space/ind-slider.html)
+12:28:39	Warning: 	Retry after error -4 (No data (connection closed)) at link baha.malyarchuk.space/img/portfolio/img-9.jpg (from baha.malyarchuk.space/ind-slider.html)
+12:28:39	Error: 	"Failed Dependency" (424) at link baha.malyarchuk.space/ (from baha.malyarchuk.space/single-blog.html)
+12:28:39	Warning: 	Retry after error -4 (No data (connection closed)) at link baha.malyarchuk.space/img/blog/authors/author-3.png (from baha.malyarchuk.space/single-blog.html)
+12:28:40	Warning: 	Retry after error -4 (No data (connection closed)) at link baha.malyarchuk.space/img/blog/img-5.jpg (from baha.malyarchuk.space/ind-slider.html)
+12:29:33	Warning: 	Retry after error -4 (No data (connection closed)) at link baha.malyarchuk.space/fonts/fa-regular-400.ttf (from baha.malyarchuk.space/css/plugins/font-awesome.css)
+12:29:39	Warning: 	Retry after error -4 (No data (connection closed)) at link baha.malyarchuk.space/rtl/blog-rtl-list.html (from baha.malyarchuk.space/blog-list.html)
+12:29:40	Warning: 	Retry after error -4 (No data (connection closed)) at link baha.malyarchuk.space/img/blog/post/blog-2.jpg (from baha.malyarchuk.space/blog-list.html)
+12:29:50	Warning: 	Retry after error -4 (No data (connection closed)) at link baha.malyarchuk.space/img/blog/post/blog-4.jpg (from baha.malyarchuk.space/blog-list.html)
+12:29:50	Warning: 	Retry after error -4 (No data (connection closed)) at link baha.malyarchuk.space/img/blog/post/gallery/gallery-2.jpg (from baha.malyarchuk.space/blog-list.html)
+12:29:50	Warning: 	Retry after error -4 (No data (connection closed)) at link baha.malyarchuk.space/img/blog/post/gallery/gallery-4.jpg (from baha.malyarchuk.space/blog-list.html)
+12:30:03	Warning: 	Retry after error -4 (No data (connection closed)) at link baha.malyarchuk.space/rtl/blog-rtl-list.html (from baha.malyarchuk.space/blog-list.html)
+12:30:33	Error: 	"No data (connection closed)" (-4) after 2 retries at link baha.malyarchuk.space/rtl/blog-rtl-list.html (from baha.malyarchuk.space/blog-list.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 44 seconds : 133 links scanned, 104 files written (10436492 bytes overall) [8464689 bytes received at 24606 bytes/sec], 2751276 bytes transferred using HTTP compression in 40 files, ratio 26%, 2.4 requests per connection
+(3 errors, 25 warnings, 0 messages)
